@@ -21,4 +21,4 @@
 لتجربة النظام بكامل سرعته وكفاءته باستخدام خوادم Google، اضغط على الزر أدناه لفتح الكود وتشغيله مباشرة:
 
 <!-- استبدل الرابط أدناه برابط ملف الـ ipynb الخاص بك بعد رفعه -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/اسم_المستخدم/اسم_المستودع/blob/main/اسم_الملف.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hussain0533/Smart-Flow-Najran-RAG/blob/main/Untitled6.ipynb)
